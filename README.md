@@ -6,6 +6,5 @@ i love :book:, :dog:, :running:
 
 i love :icecream:, :cake:
 
-nueva actividad
 
 aprendiendo en github
