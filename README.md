@@ -8,6 +8,5 @@ i love :icecream:, :cake:
 
 nueva acctividad
 
-aprendiendo en github
 
-mi ultima linea en github
+
